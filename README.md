@@ -37,8 +37,8 @@ This Application is to to build a simple REST api using [NestJs](<https://docs.n
 First, clone the repository [Stereo-Api]() then install the package using yarn package manager
 
 ```bash
-git clone https://github.com/dagogodboss/stereo-test.git 
-cd dir 
+git clone [https://github.com/dagogodboss/stereo-test.git ](https://github.com/dagogodboss/stereo-pay.git)
+cd dir stereo-pay
 yarn 
 ```
 
